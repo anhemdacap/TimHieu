@@ -96,4 +96,4 @@ map1.swap(map2);
 - Hàm thành viên find() cho phép ta tìm kiếm theo "position".  
 `mymap.find("position")`  
 
-> Copy & Paste tại [đây](https://www.stdio.vn/articles/stl-map-trong-c-76)  
+> Copy & Paste in [here](https://www.stdio.vn/articles/stl-map-trong-c-76)  
