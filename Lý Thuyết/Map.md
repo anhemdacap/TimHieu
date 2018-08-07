@@ -76,7 +76,7 @@ mymap.erase(5);
 mymap.clear();  
 ```
 
-- Với hàm thành viên swap() cho ta hoán đổi nội dung của lớp "map"
+- Với hàm thành viên swap() cho ta hoán đổi nội dung của lớp "map"  
 ```
 map<char,int> map1, map2;  
  
